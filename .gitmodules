@@ -14,3 +14,6 @@
 	path = boost_patch_warnings
 	url = git@github.com:ivsgroup/boost_patch_warnings.git
 	branch = ivs
+[submodule "boost_warnings_minimal_demo"]
+	path = boost_warnings_minimal_demo
+	url = git@github.com:ivsgroup/boost_warnings_minimal_demo.git
