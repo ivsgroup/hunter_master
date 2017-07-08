@@ -22,6 +22,11 @@ git remote add official https://github.com/google/googletest.git
 cd ..
 ```
 
+## Mode d'emploi
+
+Comment ajouter des versions :
+Le readme du repo boost_patch_warnings donne pleins d'insructions https://github.com/ivsgroup/boost_patch_warnings/tree/ivs
+
 
 #### Alias git pour submodules
 Il est recommandé d'utiliser les alias git fournis dans GitAliases.ini (ceux qui commencent par sm-). Ils permettent de faciliter le travail avec les submodules.
