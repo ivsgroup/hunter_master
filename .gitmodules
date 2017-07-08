@@ -1,3 +1,4 @@
 [submodule "hunter"]
 	path = hunter
 	url = git@github.com:ivsgroup/hunter.git
+	branch = ivs
