@@ -2,3 +2,7 @@
 	path = hunter
 	url = git@github.com:ivsgroup/hunter.git
 	branch = ivs
+[submodule "googletest"]
+	path = googletest
+	url = git@github.com:ivsgroup/googletest.git
+	branch = ivs
