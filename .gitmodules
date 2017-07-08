@@ -6,3 +6,7 @@
 	path = googletest
 	url = git@github.com:ivsgroup/googletest.git
 	branch = ivs
+[submodule "opencv"]
+	path = opencv
+	url = git@github.com:ivsgroup/opencv.git
+	branch = ivs
