@@ -10,3 +10,7 @@
 	path = opencv
 	url = git@github.com:ivsgroup/opencv.git
 	branch = ivs
+[submodule "boost_patch_warnings"]
+	path = boost_patch_warnings
+	url = git@github.com:ivsgroup/boost_patch_warnings.git
+	branch = ivs
