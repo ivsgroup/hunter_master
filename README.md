@@ -24,11 +24,12 @@ cd ..
 
 ## Mode d'emploi
 
-Comment ajouter des versions :
+Comment ajouter des versions "ivs" : 
 Le readme du repo boost_patch_warnings donne pleins d'insructions https://github.com/ivsgroup/boost_patch_warnings/tree/ivs
 
+_Note: il est recommandé de tenter de faire remonter nos patchs vers le repo master hunter ainsi que vers les repos officiel (opencv, boost, etc)_
 
-#### Alias git pour submodules
+### Alias git pour submodules
 Il est recommandé d'utiliser les alias git fournis dans GitAliases.ini (ceux qui commencent par sm-). Ils permettent de faciliter le travail avec les submodules.
 
 Editez votre fichier ~/.gitconfig et ajoutez :
